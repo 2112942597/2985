@@ -3,6 +3,7 @@
 Instructions
 Download the repository
 The codes are stored in a folder called "ad"
+
 1.runing "data_generator.py"  (Load the required lung field masks dataset)
 
 2.Using "date August.py" can improve the generalization ability of the model
