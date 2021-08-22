@@ -2,7 +2,7 @@
 
 Instructions
 Download the repository
-The codes are stored in a folder called "ad"
+The codes are stored in a folder called "ab"
 
 1.runing "data_generator.py"  (Load the required lung field masks dataset)
 
