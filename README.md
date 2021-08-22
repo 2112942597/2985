@@ -13,3 +13,5 @@ The codes are stored in a folder called "ab"
 4.The lung field output from the model is a floating-point two-dimensional matrix, so you need to use "best"_ Threshold. Py "get the best threshold. Binarize the predicted value and compare it with the real lung field.
 
 5."five metric.py" (these are five commonly used lung segmentation evaluation indexes)
+
+6."Computer graphics morphology algorithm. Py" includes connected domain filtering and flooding
