@@ -7,7 +7,7 @@ The codes are stored in a folder called "ab"
 
 1.runing "data_generator.py"  (Load the required lung field masks dataset)
 
-2.Using "date August.py" can improve the generalization ability of the model
+2.Using "date augment.py" can improve the generalization ability of the model
 
 3."model.py" is the main program of neural network, which is written with tensorflow 2.4.0
 
