@@ -16,3 +16,6 @@ The codes are stored in a folder called "ab"
 5."five metric.py" (these are five commonly used lung segmentation evaluation indexes)
 
 6."Computer graphics morphology algorithm. Py" includes connected domain filtering and flooding
+
+
+If you want to get the detailed code, please contact lwf@haut.edu.cn
